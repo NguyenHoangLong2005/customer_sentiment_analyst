@@ -1,0 +1,21 @@
+# Large zip files
+*.zip
+*.rar
+*.tar.gz
+
+# Data & Models
+models/
+model_weights/
+data/
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# Gradio
+.gradio/
+batch_results.csv

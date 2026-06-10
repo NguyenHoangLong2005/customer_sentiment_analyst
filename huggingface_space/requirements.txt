@@ -1,0 +1,9 @@
+gradio
+transformers
+torch
+plotly
+pandas
+wordcloud
+matplotlib
+scikit-learn
+underthesea
